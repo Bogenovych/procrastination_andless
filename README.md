@@ -1,2 +1,2 @@
-# procrastination_andless
+# procrastination_endless
 24_lesson
